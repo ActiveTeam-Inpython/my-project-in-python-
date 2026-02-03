@@ -1,0 +1,4 @@
+cryptography==42.0.5
+pyperclip==1.8.2
+pillow==10.3.0
+AES
